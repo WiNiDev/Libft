@@ -1,6 +1,6 @@
 # Libft
 ---------------------------------------------------
-## 42 - Rewrite your own Libc library
+## 42 - Rewrite your own Libc library.
 ---------------------------------------------------
 
 ## Final grade : 125/100
